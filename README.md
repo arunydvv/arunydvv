@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">I’m a sophomore at NIT Kurukshetra surviving on coffee and an unhealthy amount of code. By day, I’m a tech enthusiast on a quest for knowledge; by night, I’m a developer cranking out cool projects. If you need someone to debug your life or just want to swap epic coding fails, let’s connect! 🚀💬</h3>
+<h3 align="center">I’m a sophomore at NIT Kurukshetra surviving on coffee and an unhealthy amount of code. By day, I’m a tech enthusiast on a quest for knowledge; by night, I’m a developer cranking out cool projects. If you need someone to debug your life or just want to share some epic coding memes, let’s connect! 🚀💬</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
