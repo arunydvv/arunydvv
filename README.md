@@ -1,4 +1,4 @@
-![Screenshot](./Screenshot\ 2024-12-01\ 175911.png)
+![Screenshot](./name.png)
 
 
 <h1 align="center">Hi 👋, I'm Arun</h1>
