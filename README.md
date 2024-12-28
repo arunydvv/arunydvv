@@ -1,5 +1,6 @@
 # 💫About Me :
-I’m a sophomore at NIT Kurukshetra surviving on coffee and an unhealthy amount of code. By day, I’m a tech enthusiast on a quest for knowledge; by night, I’m a developer cranking out cool projects. If you need someone to debug your life or just want to share some epic coding memes, let’s connect! 🚀💬
+Sophomore at NIT Kurukshetra who loves building cool stuff & pretending I understand documentation on the first read. 
+Always up for fun collabs—bring snacks, and we’ll turn it into a hackathon! 🚀
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunydvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunydvv) 
